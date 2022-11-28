@@ -65,7 +65,7 @@ Tom: $500
 
 PreReq:
 =========
- - Ruby 2.15 is installed
+ - Ruby 3.0.3 is installed
  - Bundler is installed
 
 Usage instructions
